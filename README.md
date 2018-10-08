@@ -18,6 +18,6 @@
 ## Known bugs
 	- There are no bugs in logic.
 ## Change Log 
-	- This is a single iteration.
+	- This is a single iteration. 
 
 ITEC 109 - week 1 - assignment 2
