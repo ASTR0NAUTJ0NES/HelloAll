@@ -10,7 +10,7 @@
 	- run the program
 ## File list 
 	- HelloAll.class
-          HelloAll.ctxt
+	  HelloAll.ctxt
 	  HelloAll.java
 ## Copyright 
 	- Copyright © 2016 by Andrew Peyton Albanese
